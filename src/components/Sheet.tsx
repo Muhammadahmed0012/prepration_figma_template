@@ -25,7 +25,7 @@ import {
           <li><a href="">About</a></li> 
           <li><a href="">Sign Up</a></li>
           <div className='sm:flex sm:items-center flex items-center'>
-           <input type="search" placeholder='What are you looking for?'  className='sm:flex sm:items-center sm:pl-2 lg:text-sm sm:font-semibold sm:w-56 sm:h-8 sm:rounded-l-md flex items-center pl-2 text-sm font-semibold w-44 h-8 rounded-l-md  bg-[#E5E7EB]'/>
+           <input type="search" placeholder='What are you looking for?'  className='sm:flex sm:items-center sm:pl-2 lg:text-sm sm:font-semibold sm:w-60 sm:h-8 sm:rounded-l-md flex items-center pl-2 text-sm font-semibold w-56 h-8 rounded-l-md  bg-[#E5E7EB]'/>
            <Search className='sm:h-8 sm:w-7 bg-[#E5E7EB] text-black rounded-r-md h-8 w-7 '/>
            </div>
             </ul>
